@@ -3,6 +3,7 @@
 <body>
 
 <p>In HTML, spaces and new lines are ignored:</p>
+  </p> My Another Poem </p>
 
 <p>
 
@@ -24,7 +25,7 @@ a trophy of vultures, their necks pierced
 </p>
 
 by hanger hooks. I saw at once
-that you hunted everything I loved—
+that you hunted everything I loved
 </p>
 </p>
 
